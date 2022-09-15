@@ -2,8 +2,11 @@ html, body {
     height: 100%;
 }
 
+* {
+    font-family: "Pangolin";
+}
 body {
-    font: 20px Pangolin, sans-serif;
+    font: 20px, sans-serif;
     line-height: 1.8;
     color: #f5f6f7;
 }
